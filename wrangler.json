@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "countdown-timer-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9a6f677f-b84a-4958-a881-a1c6d30a622f",
+			"database_name": "countdown-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
